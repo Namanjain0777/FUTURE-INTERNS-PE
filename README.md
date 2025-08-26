@@ -10,7 +10,7 @@ This repository showcases three end-to-end projects leveraging **prompt chaining
 ## 📁 Repository Structure
 
 ```
-FUTURE-INTERNS-PROMPT-ENGINEERING/
+FUTURE-INTERNS-PE/
 ├── FUTURE_PE_01/
 │   ├── prompt_chains.md
 │   ├── youtube_script.docx
