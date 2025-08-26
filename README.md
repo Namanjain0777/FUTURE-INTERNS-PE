@@ -95,7 +95,7 @@ FUTURE-INTERNS-PROMPT-ENGINEERING/
 
 If you'd like to collaborate or learn more about my work:
 
-📧 **\Naman.jainp01@gmail.com**
-🔗 **\[[Your LinkedIn Here]](https://www.linkedin.com/in/naman-jain-29b295263/)**
+📧 **Naman.jainp01@gmail.com**
+🔗 **https://www.linkedin.com/in/naman-jain-29b295263/**
 
 
