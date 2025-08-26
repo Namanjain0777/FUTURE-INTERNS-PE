@@ -16,8 +16,8 @@ FUTURE-INTERNS-PE/
 │   ├── youtube_script.docx
 │   ├── thumbnail_mockup.png
 │   ├── final_video.mp4
-│   ├── readme.md
-│   └── requirements.txt
+│   └── readme.md
+│   
 │
 ├── FUTURE_PE_02/
 │   ├── website_design.fig
